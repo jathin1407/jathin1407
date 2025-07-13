@@ -8,22 +8,6 @@ Let’s connect — whether it’s about data, football, or just your latest pla
 
 ---
 
-## 🚀 Featured Projects
-
-- **[🛫 Airline Booking System](https://github.com/jathin1407/airline-booking-system)**  
-  Built a flight booking platform using .NET and SQL Server with real-time reservation features.
-
-- **[📊 Power BI Parking Dashboard](https://github.com/jathin1407/parking-analytics-dashboard)**  
-  Dashboard for University of Iowa analyzing hourly parking usage, forecast trends, and group-level behavior.
-
-- **[🤖 Spam Review Detector (SVM)](https://github.com/jathin1407/fake-review-detector)**  
-  Python-based SVM model to detect fake Amazon reviews with a user-friendly Tkinter interface.
-
-- **[🏎 Formula 1 SQL Analytics](https://github.com/jathin1407/f1-sql-analysis)**  
-  Oracle-based SQL project with advanced queries to analyze team and driver performance in F1.
-
----
-
 ## 🧠 Skills
 
 **Languages & Tools:**  
@@ -76,5 +60,19 @@ I'm currently **open to opportunities** and happy to connect or chat about:
 
 📧 **Email:** jathinsu@buffalo.edu  
 🔗 [LinkedIn](https://www.linkedin.com/in/jathinsuresh17/)  
-📁 [Resume (Add Link)](https://github.com/jathin1407)  
 🌐 [GitHub](https://github.com/jathin1407)
+
+---
+
+## 🚀 Projects
+
+- [📊 Parking Lot Analysis (Power BI)](https://github.com/jathin1407/Parking-lot-Analysis)  
+  Analyzing 200K+ parking records to uncover usage trends and patterns.
+
+- [🥑 The Guac Stop – Data Warehousing & Analytics](https://github.com/jathin1407)  
+  Scalable cloud-based data pipeline and analytics solution for a fictional QSR.
+
+- [🏎 Formula 1 Data Analysis (SQL)](https://github.com/jathin1407/F1-Data-Analysis-Using-SQL-)  
+  SQL-based analysis of historical F1 race data to explore performance and race trends.
+
+> 🔍 More projects available in my [GitHub repositories](https://github.com/jathin1407?tab=repositories)

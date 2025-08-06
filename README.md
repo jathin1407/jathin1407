@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Jathin!
 
-I'm a curious-minded data analyst who loves uncovering patterns — whether it's in a billion rows of retail data, on a football field, or in my Spotify history. I started my career in support roles, solving incidents. But I kept asking “why?”, and that curiosity pulled me into the world of analytics.
+I'm a curious-minded data analyst who loves uncovering patterns whether it's in a billion rows of retail data, on a football field, or in my Spotify history. I started my career in support roles, solving incidents. But I kept asking “why?”, and that curiosity pulled me into the world of analytics.
 
 Now I build dashboards, write SQL, automate workflows, and deliver insights that drive decisions. I enjoy working across data pipelines, from wrangling raw data to presenting clear stories using Power BI and Tableau.
 
